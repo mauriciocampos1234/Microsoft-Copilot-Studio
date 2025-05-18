@@ -1,1 +1,15 @@
 # Microsoft-Copilot-Studio
+
+# Resumo: Criando meu Primeiro Copiloto no Microsoft Copilot Studio
+
+Criar seu primeiro copiloto no Microsoft Copilot Studio envolve alguns passos essenciais para configurar e treinar seu agente de IA para interagir com os usuários. Veja um resumo do processo com base nos tutoriais e guias disponíveis:
+
+1.  **Acessar o Microsoft Copilot Studio:** Comece entrando na plataforma Microsoft Copilot Studio.
+2.  **Criar um Novo Agente:** Na interface, procure pela opção de criar um novo agente ou copiloto.
+3.  **Nomear e Descrever o Copiloto:** Dê um nome ao seu copiloto e forneça uma descrição clara sobre a sua finalidade e o tipo de assistência que ele oferecerá. Defina também o tom e o estilo de conversa desejados.
+4.  **Adicionar Fontes de Conhecimento:** Conecte seu copiloto a fontes de informação relevantes para que ele possa responder às perguntas dos usuários. Isso pode incluir sites públicos, bases de conhecimento internas, documentos, entre outros. A IA usará essas fontes para gerar respostas.
+5.  **Criar Tópicos (Opcional, mas recomendado):** Embora a IA generativa possa responder a muitas perguntas com base nas fontes de conhecimento, você pode criar tópicos específicos para guiar a conversa em assuntos importantes ou para definir fluxos de diálogo mais estruturados com ações e integrações. Você pode usar a funcionalidade de criação de tópicos com o auxílio do Copilot descrevendo o que deseja.
+6.  **Testar o Copiloto:** Utilize a ferramenta de teste integrada no Copilot Studio para interagir com seu copiloto e verificar se ele responde conforme o esperado. Ajuste as descrições, instruções e tópicos conforme necessário.
+7.  **Publicar o Copiloto:** Após testar e refinar seu copiloto, você pode publicá-lo para disponibilizá-lo em canais como sites de demonstração, Microsoft Teams, entre outros, dependendo das suas necessidades e configurações.
+
+Em resumo, o processo foca em definir a identidade e o propósito do copiloto, fornecer as informações necessárias para que ele possa responder às perguntas e refinar suas interações através de testes e possíveis tópicos personalizados antes de colocá-lo em operação.
